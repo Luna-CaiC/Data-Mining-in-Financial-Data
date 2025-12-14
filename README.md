@@ -42,7 +42,6 @@ This project focuses on the collection, processing, and analysis of financial st
 
 ## Project Structure
 - `case1_updated.ipynb`: Main notebook containing the code for data collection, processing, and visualization.
-- `stocks_data.csv`: (Generated) CSV file containing the downloaded raw stock data.
 - `README.md`: Project documentation.
 
 ## Acknowledgments
